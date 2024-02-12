@@ -1,5 +1,11 @@
 # ECE 281 ICE 3: FullAdder with Top Level Design
 
+## DOCUMENTATION
+NO HELP RECIEVED ON THE ICE
+
+![inputs changing from high to low]()
+
+
 **Fork** this repo.
 
 [ICE 3 instructions](https://usafa-ece.github.io/ece281-book/ICE/ICE3.html)
